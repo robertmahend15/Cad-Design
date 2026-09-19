@@ -8,10 +8,11 @@ Designed a functional pliers assembly consisting of multiple mating components c
 Vice: <br/>
 <img src="https://i.imgur.com/BrN7USh.png" height="80%" width="80%" alt="Vice Design"/>
 <br />
-  
+
 <h2>Pliers Assembly</h2>
 Designed a functional pliers assembly consisting of multiple mating components connected through a pivot mechanism. Focused on mechanical motion, assembly constraints, and manufacturable geometry.
 
+<br><br><br>
 <p align="center">
 Pliers: <br/>
 <img src="https://i.imgur.com/dpVKkEy.png" height="80%" width="80%" alt="Pliers Assembly"/>
@@ -22,10 +23,12 @@ Pliers: <br/>
   
 <h2>Workshop Table Design</h2>
 Designed a workshop table and generated detailed engineering drawings suitable for manufacturing and fabrication. The project emphasized structural simplicity, material utilization, and technical documentation.
+<br><br><br>
 <p align="center"> 
 Table Parametric: <br/>
 <img src="https://i.imgur.com/nnB0f2O.png" height="80%" width="80%" alt="parametric table"/>
 <br />
+  <br><br><br>
 <p align="center">
 Table: <br/>
 <img src="https://i.imgur.com/GkOpHfY.png" height="80%" width="80%" alt="Workshop Table Design"/>
@@ -36,6 +39,7 @@ Table: <br/>
 Created a configurable stool design capable of scaling automatically through dimensional parameters. Focused on efficient geometry creation, manufacturability, and reusable design.
 
 **Skills: Parametric Design, Furniture Design, Manufacturing-Aware Design**
+<br><br><br>
 <p align="center"> <br />
 Stool: <br/>
 <img src="https://i.imgur.com/4PvVY95.png" height="80%" width="80%" alt="Parametric Stool"/>
@@ -45,10 +49,12 @@ Stool: <br/>
 Developed a fully parametric bunk-bed design controlled by a single design parameter that automatically adjusts the number of bed levels. Demonstrated design automation and configurable product development principles.
 
 **Skills: Parametric Modeling, Design Automation, Product Configuration**
+<br><br><br>
 <p align="center"><br />
 Bunk Bed: <br/>
 <img src="https://i.imgur.com/xXcAUQQ.png" height="80%" width="80%" alt="Parametric Bunk Bed Generator"/>
 <br />
+<br><br><br>
 <p align="center"><br />
 5 Bunk Bed: <br/>
 <img src="https://i.imgur.com/WzQIVWq.png" height="80%" width="80%" alt="Parametric Bunk Bed Generator"/>
@@ -58,11 +64,13 @@ Bunk Bed: <br/>
 Modeled and assembled a complete ceiling fan system, including the housing, mounting hardware, blades, lighting assembly, and support structure. Created an exploded assembly to demonstrate component relationships and assembly hierarchy.
 
 **Skills: Assembly Design, Mechanical Design, Product Development**
+<br><br><br>
 <p align="center"><br />
 Exploded Ceiling Fan: <br/>
 <img src="https://i.imgur.com/hxuAQ52.png" height="80%" width="80%" alt=" Exploded Ceiling Fan"/>
 <br />
 <p align="center"><br />
+  <br><br><br>
 Ceiling Fan: <br/>
 <img src="https://i.imgur.com/RzBWgNl.png" height="80%" width="80%" alt="Ceiling Fan Assembly"/>
 <br />
@@ -70,6 +78,7 @@ Ceiling Fan: <br/>
 Designed a consumer-product clothing iron using advanced surface modeling techniques in Fusion 360. Created complex organic geometry through lofting, trimming, and boundary-fill operations while transforming reference images into a manufacturable CAD model.
 
 **Skills: Surface Modeling, Industrial Design, Product Development**
+<br><br><br>
 <p align="center"><br />
 Iron: <br/>
 <img src="https://i.imgur.com/HTbK8F2.png" height="80%" width="80%" alt="Clothing Iron Surface Modeling"/>
