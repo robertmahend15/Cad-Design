@@ -64,7 +64,7 @@ Exploded Ceiling Fan: <br/>
 <br />
 <p align="center"><br />
 Ceiling Fan: <br/>
-<img src="" height="80%" width="80%" alt="Ceiling Fan Assembly"/>
+<img src="https://i.imgur.com/RzBWgNl.png" height="80%" width="80%" alt="Ceiling Fan Assembly"/>
 <br />
 <h2>Clothing Iron Surface Modeling</h2>
 Designed a consumer-product clothing iron using advanced surface modeling techniques in Fusion 360. Created complex organic geometry through lofting, trimming, and boundary-fill operations while transforming reference images into a manufacturable CAD model.
