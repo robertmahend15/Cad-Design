@@ -4,9 +4,9 @@
 Designed a functional pliers assembly consisting of multiple mating components connected through a pivot mechanism. Focused on mechanical motion, assembly constraints, and manufacturable geometry.
 
 **Skills: Machine Design, Mechanical Assemblies, Manufacturing Design**
-<br />
+<p align="center"> <br />
 Vice: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Vice Design"/>
+<img src="https://i.imgur.com/BrN7USh.png" height="80%" width="80%" alt="Vice Design"/>
 <br />
   
 <h2>Pliers Assembly</h2>
@@ -14,31 +14,31 @@ Designed a functional pliers assembly consisting of multiple mating components c
 
 <p align="center">
 Pliers: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Pliers Assembly"/>
+<img src="https://i.imgur.com/dpVKkEy.png" height="80%" width="80%" alt="Pliers Assembly"/>
 <br />
   
 **Skills: Mechanical Design, Assemblies, Mechanism Design**
-<br />
-: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt=""/>
-<br />
+
   
 <h2>Workshop Table Design</h2>
 Designed a workshop table and generated detailed engineering drawings suitable for manufacturing and fabrication. The project emphasized structural simplicity, material utilization, and technical documentation.
+<p align="center"> 
+Table Parametric: <br/>
+<img src="https://i.imgur.com/nnB0f2O.png" height="80%" width="80%" alt="parametric table"/>
+<br />
+<p align="center">
+Table: <br/>
+<img src="https://i.imgur.com/GkOpHfY.png" height="80%" width="80%" alt="Workshop Table Design"/>
 
 **Skills: Engineering Drawings, Design for Manufacturing, Technical Documentation**
-<br />
-Table: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Workshop Table Design"/>
-<br />
-  
+
 <h2>Parametric Stool</h2>
 Created a configurable stool design capable of scaling automatically through dimensional parameters. Focused on efficient geometry creation, manufacturability, and reusable design.
 
 **Skills: Parametric Design, Furniture Design, Manufacturing-Aware Design**
-<br />
+<p align="center"> <br />
 Stool: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Parametric Stool"/>
+<img src="https://i.imgur.com/4PvVY95.png" height="80%" width="80%" alt="Parametric Stool"/>
 <br />
   
 <h2>Parametric Bunk Bed Generator</h2>
@@ -47,6 +47,10 @@ Developed a fully parametric bunk-bed design controlled by a single design param
 **Skills: Parametric Modeling, Design Automation, Product Configuration**
 <br />
 Bunk Bed: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Parametric Bunk Bed Generator"/>
+<br />
+<br />
+5 Bunk Bed: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Parametric Bunk Bed Generator"/>
 <br />
   
@@ -65,6 +69,6 @@ Designed a consumer-product clothing iron using advanced surface modeling techni
 **Skills: Surface Modeling, Industrial Design, Product Development**
 <br />
 Iron: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Clothing Iron Surface Modeling"/>
+<img src="https://i.imgur.com/HTbK8F2.png" height="80%" width="80%" alt="Clothing Iron Surface Modeling"/>
 <br />
   
